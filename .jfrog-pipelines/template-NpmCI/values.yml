@@ -17,7 +17,7 @@ artIntegration: myArtIntegration
  
 ##### Repository Details
 repo:
-  path: jfrog/jfrog-pipelines
+  path: RjSH1/jfrog-pipelines
   gitIntegration: myGitIntegration
   branchPattern: "^project_files$"
  
